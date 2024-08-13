@@ -21,5 +21,4 @@ rad.json
 #Test results file
 TestResults.xml
 
-*01-Homework-checkpoint.ipynb
-*02-Homework-checkpoint.ipynb
+.ipynb_checkpoints
